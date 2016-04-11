@@ -1,6 +1,6 @@
 ### medoo
 #### 官方说明
-> The Lightest PHP database framework to accelerate development
+> cache
 
 #### github地址
 [https://github.com/catfan/Medoo](https://github.com/catfan/Medoo)

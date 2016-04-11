@@ -4,7 +4,9 @@
 
 [Medoo](https://github.com/kphcdr/kphcdr/blob/master/database/medoo.md) *The Lightest PHP database framework to accelerate development*
 
+##错误调试类
 
+[Whoops](https://github.com/kphcdr/kphcdr/blob/master/debug/whoops.md) *PHP errors for cool kids*
 
 
 
