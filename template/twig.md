@@ -30,13 +30,15 @@
 
 **代码片段**
 
-    {section name=outer
-    loop=$FirstName}
-        {if $smarty.section.outer.index is odd by 2}
-            {$smarty.section.outer.rownum} . {$FirstName[outer]} {$LastName[outer]}
-        {else}
-            {$smarty.section.outer.rownum} * {$FirstName[outer]} {$LastName[outer]}
-        {/if}
-        {sectionelse}
-        none
-    {/section}
+	{% for a in data %}
+    <tr>
+        <td>{{ a.id }}</td>
+        <td>{{ a.name }}</td>
+        <td>{{ a.cname }}</td>
+        <td>{{ a.is_use==0 ? '可用' : '不可用' }}</td>
+        <td>
+            <a href="/article/infoarticle/id/{{ a.id}}" class="label label-info" data-original-title="">编辑</a>
+            <a data-url="/article/delarticle/id/{{ a.id}}" href="javascript:;" class="label label-danger btn-del" data-original-title="">删除</a>
+        </td>
+    </tr>
+    {% endfor %}
