@@ -16,3 +16,4 @@
 
 [smarty](https://github.com/kphcdr/kphcdr/blob/master/template/smarty.md) *Smarty 3 template engine*
 
+[twig](https://github.com/twigphp/Twig) *Twig, the flexible, fast, and secure template language for PHP*
