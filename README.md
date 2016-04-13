@@ -12,3 +12,7 @@
 
 
 
+##模板引擎
+
+[smarty](https://github.com/kphcdr/kphcdr/blob/master/template/smarty.md) *Smarty 3 template engine*
+
