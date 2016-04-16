@@ -9,11 +9,13 @@
 [Whoops](https://github.com/kphcdr/kphcdr/blob/master/debug/whoops.md) *PHP errors for cool kids*
 
 
+##数据缓存类
 
+[Cache](https://github.com/kphcdr/kphcdr/blob/master/cache/cache.md) *A simple cache library. Implements different adapters that you can use and change easily by a manager or similar.*
 
 
 ##模板引擎
 
-[smarty](https://github.com/kphcdr/kphcdr/blob/master/template/smarty.md) *Smarty 3 template engine*
+[smarty](https://github.com/smarty-php/smarty) *Smarty 3 template engine*
 
-[twig](https://github.com/kphcdr/kphcdr/blob/master/template/twig.md) *Twig, the flexible, fast, and secure template language for PHP*
+[twig](https://github.com/twigphp/Twig) *Twig, the flexible, fast, and secure template language for PHP*
