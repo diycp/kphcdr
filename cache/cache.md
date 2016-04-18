@@ -28,4 +28,8 @@
 > 使用composer加载后无法扩展
 
 **代码片段**
-![Whoops!](http://i.imgur.com/0VQpe96.png)
+	
+	$cache = new Cache();
+	$cache->set('name','value',3600);
+	$cache->get('name');
+	$cache->has('name');
