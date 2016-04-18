@@ -16,6 +16,10 @@
 
 ##模板引擎
 
-[smarty](https://github.com/smarty-php/smarty) *Smarty 3 template engine*
+[smarty](https://github.com/kphcdr/kphcdr/blob/master/template/cache.md) *Smarty 3 template engine*
 
-[twig](https://github.com/twigphp/Twig) *Twig, the flexible, fast, and secure template language for PHP*
+[twig](https://github.com/kphcdr/kphcdr/blob/master/template/cache.md) *Twig, the flexible, fast, and secure template language for PHP*
+
+##日志类
+
+[SeasLog](https://github.com/kphcdr/kphcdr/blob/master/log/seaslog.md) *An effective,fast,stable log extension for PHP*
