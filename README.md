@@ -1,5 +1,5 @@
 #说明
-以下评测为个人片面了解后得出的结论，不代表项目的真实情况
+以下评测为个人片面了解后得出的结论，不代表项目的真实情况。虽然评分各有高低，但总的说来都是超一流出色作品
 ##数据库类
 
 [Medoo](https://github.com/kphcdr/kphcdr/blob/master/database/medoo.md) *The Lightest PHP database framework to accelerate development*
