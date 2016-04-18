@@ -16,9 +16,9 @@
 
 ##模板引擎
 
-[smarty](https://github.com/kphcdr/kphcdr/blob/master/template/cache.md) *Smarty 3 template engine*
+[smarty](https://github.com/kphcdr/kphcdr/blob/master/template/smarty.md) *Smarty 3 template engine*
 
-[twig](https://github.com/kphcdr/kphcdr/blob/master/template/cache.md) *Twig, the flexible, fast, and secure template language for PHP*
+[twig](https://github.com/kphcdr/kphcdr/blob/master/template/twig.md) *Twig, the flexible, fast, and secure template language for PHP*
 
 ##日志类
 
